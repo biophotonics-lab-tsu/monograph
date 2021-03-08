@@ -1,10 +1,20 @@
 # Medical applications of laser molecular imaging and machine learning
 ## Yury V. Kistenev, Denis A. Vrazhnov, A. V. Borisov
   
-This repository contains additional materials for monograph "Medical applications of laser molecular imaging and machine learning"  
+This repository contains supplemental materials for the monograph "Medical applications of laser molecular imaging and machine learning". 
+These materials are presented in the form of Python Jypiter notebooks, one notebook per procedure according to the chapter content. 
+Chapter 3 contains informative feature extraction methods.
+Chapter 4 contains clusterization and predictive model construction methods.
+The name of notebook has following format: <procedure tag>_<section>.ipynb.
+The complete list of tags and procedures is presented in the Introduction section of the monograph.
+
+#Important!
+There is a known issue with jypiter notebook rendering on GitHub. In that case, you can try to press reload button until it rendered, 
+or use sided website for notebook rendering: https://nbviewer.jupyter.org/github/biophotonics-lab-tsu/monograph/
+
 You have 2 options:
-- clone this repository and use your own execution environment to run code
-- clone this repository, download prepared execution environment built using jupyter notebook and run this code
+- clone this repository and use your execution environment to run code
+- clone this repository, download prepared execution environment built using jupyter notebook, and run this code
 
 # Instruction for 2nd option
 At this moment environment supports **only** 32bit and 64bit versions of Windows 10.  
