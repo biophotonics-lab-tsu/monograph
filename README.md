@@ -2,7 +2,7 @@
 ## Yury V. Kistenev, Denis A. Vrazhnov, A. V. Borisov
   
 This repository contains supplemental materials for the monograph "Medical applications of laser molecular imaging and machine learning". 
-These materials are presented in the form of Python Jypiter notebooks, one notebook per procedure according to the chapter content. 
+These materials are presented in the form of Python Jupyter notebooks, one notebook per procedure according to the chapter content. 
 Chapter 3 contains informative feature extraction methods.
 Chapter 4 contains clusterization and predictive model construction methods.
 The name of notebook has following format: <procedure tag>_<section>.ipynb.
